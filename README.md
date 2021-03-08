@@ -150,7 +150,7 @@ If you use this code, please consider citing our paper:
 
 	@Inproceedings{liew2021deep,
 	  Title          = {Deep Interactive Thin Object Selection},
-	  Author         = {Liew, Jun Hao and Cohen, Scott and Price, Brian and Mai, Long and Feng, Jiashi},,
+	  Author         = {Liew, Jun Hao and Cohen, Scott and Price, Brian and Mai, Long and Feng, Jiashi},
 	  Booktitle      = {Winter Conference on Applications of Computer Vision (WACV)},
 	  Year           = {2021}
 	}
